@@ -18,7 +18,7 @@ I'm working alone on this project so hit me up on [TG](https://t.me/GGtt10000).
 
 ## License
 
-Don't forget to credit me for the usage, and this App was Made By [Sketchware Pro](www.sketchware.pro).
+Don't forget to credit me for the usage, and this App was Made By [Sketchware Pro](https://sketchware.pro/).
 
 ## Acknowledgements
 
